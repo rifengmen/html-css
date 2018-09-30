@@ -1,0 +1,17 @@
+div {
+	width: 600px;
+	height: 600px;
+	border-top-width: 10px;
+	border-right-width: 20px;
+	border-bottom-width: 30px;
+	border-left-width: 40px;
+	border-top-style: solid;
+	border-right-style: dashed;
+	border-bottom-style: dotted;
+	border-left-style: double;
+	border-top-color: red;
+	border-right-color: green;
+	border-bottom-color: blue;
+	border-left-color: orange;
+	border-radius: 200px;
+}

@@ -1,0 +1,8 @@
+div {
+	font-family: "microsoft yahei";
+}
+input {
+	border: 0;
+	border-bottom-style: dashed;
+	border-color: red;
+}

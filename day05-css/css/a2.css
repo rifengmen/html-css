@@ -1,0 +1,18 @@
+div.box {
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	padding: 100px;
+/*	width: 200px;
+	height: 200px;
+	background-color: green;
+	padding-top: 100px;
+	padding-left: 100px;
+	第二种方法，200的盒子上左各顶出100。
+	此为常用方法。*/
+}
+div.box div.box1 {
+	width: 100px;
+	height: 100px;
+	background-color: red;
+}

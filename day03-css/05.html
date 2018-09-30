@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>css选择器练习</title>
+	<style type="text/css">
+		*ul,li，div,a{
+			font-size: 14px;
+			font-family: microsoft yahei;
+		}
+		ul li a{
+			color: yellow;
+		}
+		ul>li>a{
+			color: green;
+		}
+		ul li{
+			color: yellow;
+		}
+		ul>li{
+			color: green;
+		}
+		p{
+			color: red;
+		}
+	</style>
+</head>
+<body>
+	<ul>
+		<li><a href="#">公司首页</a></li>
+		<li><a href="#">公司简介</a></li>
+		<li><a href="#">公司产品</a></li>
+		<li><a href="#">联系我们</a>
+			<ol>
+				<li><a href="#">公司邮箱</a></li>
+				<li><a href="#">公司电话</a></li>
+			</ol>
+		</li>
+	</ul>
+	<div>左侧侧导航栏</div>
+	<p><a href="#">登录</a></p>
+
+</body>
+</html>

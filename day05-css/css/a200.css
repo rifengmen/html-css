@@ -1,0 +1,39 @@
+div.father {
+	width: 700px;
+	height: 360px;
+	border: 1px solid rgba(0,0,0,0.2);
+	padding: 20px 20px;
+	color: rgba(0,0,0,0.9);
+	margin: 50px auto;
+	text-decoration: none;
+}
+div.father>a {
+	display: block;
+	height: 40px;
+	font-size: 24px;
+	font-weight: 700;
+	/*text-decoration: none;*/
+	color: rgb(0,0,0);
+	padding-top: 14px;
+	padding-left: 0;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+div.son {
+	padding-top: 10px;
+}
+div.son>a {
+	display: block;
+	/*text-decoration: none;*/
+	width: 660px;
+	height: 34px;
+	font-size: 14px;
+	border-bottom: 1px dashed rgba(0,0,0,0.2);
+	color: rgba(0,0,0,0.9);
+	padding-top: 20px;
+	padding-left: 40px;
+}
+/*a：hover {
+	color: red;
+	text-decoration: underline;
+}
+*/

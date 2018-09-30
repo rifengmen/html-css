@@ -1,0 +1,35 @@
+div{
+	text-align: center;
+	font-weight: 400;
+	font-size: 18px;
+	font-family: "microsoft yahei";
+}
+.a2{
+	height: 80px;
+}
+.a21{
+	font-weight: 700;
+	color: black;
+	text-decoration: none;
+	letter-spacing: 4px;
+}
+.a3,.a4{
+	height: 60px;
+}
+.a31{
+	width: 600px;
+	height: 26px;
+}
+.a32{
+	width: 120px;
+	height: 30px;
+}
+.a5{
+	height: 80px;
+	font-size: 14px;
+}
+.a6,.a7,.a8{
+	font-size: 14px;
+	height: 18px;
+}
+

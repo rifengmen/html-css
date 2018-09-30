@@ -1,0 +1,21 @@
+div{
+	width: 500px;
+	height: 200px;
+	background-color: blue;
+	display: inline;
+}
+span{
+	width: 500px;
+	height: 200px;
+	background-color: green;
+	display: block;
+}
+a{
+	width: 500px;
+	height: 200px;
+	background-color: red;
+	display: inline-block;
+}
+a:hover{
+	background-color: black;
+}

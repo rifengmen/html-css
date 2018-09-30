@@ -1,0 +1,21 @@
+div {
+	height: 400px;
+	background-color: rgba(0,0,0,0.6);
+	padding-top: 50px;
+	padding-left: 50px;
+}
+a {
+	display: inline-block;
+	text-align: center;
+	width: 200px;
+	line-height: 200px;
+	border-radius: 50%;
+	background-color: white;
+	text-decoration: none;
+	color: red;
+	margin: 30px;
+}
+a:hover {
+	background-color: black;
+	color: green;
+}
